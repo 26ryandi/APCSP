@@ -1,0 +1,26 @@
+    .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: green;
+                transition: background 0.3 ease, transform 0.3s ease; /*GPT CODE, makes when you hover over title it pops out*/
+            }
+            .heading:hover { /*GPT CODE makes when you hover over title it pops out*/
+              background: darkgreen;
+              transform: scale(1.05);
+            }
+           
+ 
+            .section {
+               background: linear-gradient(to bottom, #E9E2FA, #D1C0FA); /*GPT CODE, fades the color into a gradient*/
+               background-color: #E9E2FA;
+               padding: 20px;
+               margin-top: 30px;
+            .movie {
+               background: linear-gradient(to bottom, #E9E2FA, #D1C0FA);/*GPT CODE, fades color into a gradient*/
+              background-color: #ADD8E6;
+              padding: 20px;
+              margin-top: 30px;
+
+            }
+            
